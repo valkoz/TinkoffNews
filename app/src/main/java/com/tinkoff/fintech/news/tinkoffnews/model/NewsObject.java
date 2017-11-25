@@ -1,4 +1,4 @@
-package com.tinkoff.fintech.news.tinkoffnews.network;
+package com.tinkoff.fintech.news.tinkoffnews.model;
 
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;

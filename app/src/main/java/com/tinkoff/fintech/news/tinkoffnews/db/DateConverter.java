@@ -3,7 +3,7 @@ package com.tinkoff.fintech.news.tinkoffnews.db;
 
 import android.arch.persistence.room.TypeConverter;
 
-import com.tinkoff.fintech.news.tinkoffnews.network.PublicationDate;
+import com.tinkoff.fintech.news.tinkoffnews.model.PublicationDate;
 
 public class DateConverter {
 

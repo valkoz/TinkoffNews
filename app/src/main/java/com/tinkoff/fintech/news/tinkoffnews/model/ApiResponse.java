@@ -1,4 +1,6 @@
-package com.tinkoff.fintech.news.tinkoffnews.network;
+package com.tinkoff.fintech.news.tinkoffnews.model;
+
+import com.tinkoff.fintech.news.tinkoffnews.model.NewsObject;
 
 import java.util.List;
 

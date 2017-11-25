@@ -5,7 +5,7 @@ import android.arch.persistence.room.Room;
 import android.arch.persistence.room.RoomDatabase;
 import android.content.Context;
 
-import com.tinkoff.fintech.news.tinkoffnews.network.NewsObject;
+import com.tinkoff.fintech.news.tinkoffnews.model.NewsObject;
 
 @Database(entities = {NewsObject.class}, version = 1)
 public abstract class AppDatabase extends RoomDatabase {

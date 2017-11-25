@@ -8,7 +8,7 @@ import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.tinkoff.fintech.news.tinkoffnews.network.NewsObject;
+import com.tinkoff.fintech.news.tinkoffnews.model.NewsObject;
 
 import java.util.ArrayList;
 

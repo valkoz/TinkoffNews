@@ -5,6 +5,8 @@ import android.support.annotation.NonNull;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.tinkoff.fintech.news.tinkoffnews.BuildConfig;
+import com.tinkoff.fintech.news.tinkoffnews.model.ApiResponse;
+import com.tinkoff.fintech.news.tinkoffnews.model.NewsObject;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;

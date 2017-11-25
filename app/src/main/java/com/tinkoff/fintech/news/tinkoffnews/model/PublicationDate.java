@@ -1,4 +1,4 @@
-package com.tinkoff.fintech.news.tinkoffnews.network;
+package com.tinkoff.fintech.news.tinkoffnews.model;
 
 
 public class PublicationDate {

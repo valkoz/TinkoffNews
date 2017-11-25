@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import com.tinkoff.fintech.news.tinkoffnews.db.AppDatabase;
 import com.tinkoff.fintech.news.tinkoffnews.network.NewsCallback;
-import com.tinkoff.fintech.news.tinkoffnews.network.NewsObject;
+import com.tinkoff.fintech.news.tinkoffnews.model.NewsObject;
 import com.tinkoff.fintech.news.tinkoffnews.network.RetrofitClient;
 
 import java.util.List;

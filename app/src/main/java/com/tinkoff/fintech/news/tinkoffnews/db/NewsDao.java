@@ -5,7 +5,7 @@ import android.arch.persistence.room.Insert;
 import android.arch.persistence.room.OnConflictStrategy;
 import android.arch.persistence.room.Query;
 
-import com.tinkoff.fintech.news.tinkoffnews.network.NewsObject;
+import com.tinkoff.fintech.news.tinkoffnews.model.NewsObject;
 
 import java.util.List;
 

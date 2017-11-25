@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.tinkoff.fintech.news.tinkoffnews.network.NewsObject;
+import com.tinkoff.fintech.news.tinkoffnews.model.NewsObject;
 
 import java.util.List;
 
